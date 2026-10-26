@@ -1,6 +1,7 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Atchaya.k</h3>
+<h3>Register Number: 212223220011</h3>
+<h3>Date : 15/10/26</h3>
 
 
 <h3>AIM:</h3>
@@ -41,7 +42,6 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-## DATE : 15/10/26
 
 ## Program:
 
@@ -88,7 +88,7 @@ agent = MedicinePrescribingAgent()
 agent.run()
 
 ```
-## output:
+## Output:
 <img width="936" height="351" alt="image" src="https://github.com/user-attachments/assets/7a9b9905-3355-4405-ba60-db22388a400e" />
 
 ## Result:
